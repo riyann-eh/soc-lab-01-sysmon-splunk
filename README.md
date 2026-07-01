@@ -224,3 +224,7 @@ Using that GUID, I built a table view of the full chain: `resume.pdf.exe` → `c
 
 
 
+=======
+# soc-lab-01-sysmon-splunk
+SOC home lab simulating an attack (Nmap recon + custom malware + reverse shell) and tracing it end-to-end through Sysmon telemetry in Splunk.
+>>>>>>> e539fa56f5b0a5c1b4cbade1c34bf79852f60da8
